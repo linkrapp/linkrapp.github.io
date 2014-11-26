@@ -12,11 +12,9 @@ relative_permalinks: true
 title:               Linkr Blog
 tagline:             "Link better, advance further"
 description:         We are engaging for highly efficient professional social network!
-url:                 http://blog.gotolinkr.com/
+url:                 http://blog.gotolinkr.com
 baseurl:             /
 paginate:            5
-google_analytics_id: UA-56228338-1
-
 # About/contact
 author:
   name:              linkr
