@@ -3,7 +3,7 @@ layout: post
 title: appszoom's review for Linkr
 ---
 
-## A social network for making work contacts, with referrals and positive feedback from your friends
+### A social network for making work contacts, with referrals and positive feedback from your friends
 
 It has been said that referrals and positive word-of-mouth are the most effective ways to land yourself that great job. Linkr works on this principle, a social networking app to help you link up and get job faster.
 
