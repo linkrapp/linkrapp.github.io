@@ -1,12 +1,30 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Linkr Blog
+tagline:             "Link better, advance further"
+description:         We are engaging for highly efficient professional social network!
+url:                 http://blog.gotolinkr.com/
+baseurl:             /
+paginate:            5
+google_analytics_id: UA-56228338-1
+
+# About/contact
+author:
+  name:              linkr
+  url:               http://www.gotolinkr.com/
+  email:             support@gotolinkr.com
+
+# Custom vars
+version:             1.0.0
+
+gems:
+  - jekyll-sitemap
